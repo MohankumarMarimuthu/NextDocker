@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
 Clone this repository and open it in local in terminal do
 
-```bash
 npm i
 
 in order run the staging please do run,

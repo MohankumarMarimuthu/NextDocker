@@ -19,7 +19,7 @@ ARG NODE_ENV
 
 COPY .env.${NODE_ENV} .env
 
-RUN npm run build
+# RUN npm run build
 
 
 CMD ["npm", "run", "dev"]

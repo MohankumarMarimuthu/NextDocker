@@ -1,11 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
 
 
 Clone this repository and open it in local in terminal do
 
-npm i
+## Getting Started
+
+do install 
+npm i - in the terminal
 
 in order run the staging please do run,
 
